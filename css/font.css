@@ -6,7 +6,7 @@
 /* 文章页背景 */
 .layout_post>#post {
   /* 以下代表透明度为0.5 可以自行修改*/
-  background: rgba(255,255,255,.5);
+  background: rgba(255,255,255,.3);
 }
 
 /* 所有页面背景 */
@@ -28,7 +28,7 @@
 }
 /*文章页面*/
 .layout>#post{
-    background: rgba(255,255,255,.6);
+    background: rgba(255,255,255,.9);
 }
 /*分类页面*/
 .layout>#page{
